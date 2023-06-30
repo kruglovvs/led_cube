@@ -1,0 +1,3 @@
+../Core/Src/LED_cube.c:3:6:cube_set_zero	24	static
+../Core/Src/LED_cube.c:27:6:send_cube	24	static
+../Core/Src/LED_cube.c:38:9:crc8	24	static
